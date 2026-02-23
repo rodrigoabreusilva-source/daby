@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>gato</title>
+</head>
+<body>
+<h1>Título Principal Aqui</h1>
+<h2>Subơtulo Aqui</h2>
+<p>Escreva aqui um parágrafo falando sobre o animal escolhido.
+Conte como ele é, o que ele gosta de fazer, qual é o nome dele, etc.
+</p>
+
+<img src="images (1).jfif" alt="Imagem do animal">
+</body>
+</html>
